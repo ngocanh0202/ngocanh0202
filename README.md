@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foundation in full-stack development and a love for creating innovative solutions. Currently working as a Developer at **FPT Software**, I'm on a journey to become a professional software engineer within the next 2-3 years.
+I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foundation in full-stack development and a love for creating innovative solutions. I'm on a journey to become a professional software engineer within the next 2-3 years.
 
-- 🔭 I'm currently working on **enterprise software solutions** at FPT Software
+- 🔭 I'm have experienced on **enterprise software solutions** at FPT Software
 - 🌱 I'm continuously learning and improving my skills in **C#, ASP.NET, and modern web technologies**
 - 👯 I'm looking to collaborate on **open-source projects** and **innovative applications**
 - 💬 Ask me about **full-stack development, mobile apps, or game development**
@@ -90,13 +90,6 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh0202&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-## 🎓 Education
-
-**Duy Tan University** | *2020 - 2024*
-- Bachelor of Software Engineering
-- **GPA:** 3.37/4.0
-- Focused on web development, mobile applications, and game development
 
 ## 💼 Professional Experience
 
