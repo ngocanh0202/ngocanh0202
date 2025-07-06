@@ -13,7 +13,7 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
 - 👯 I'm looking to collaborate on **open-source projects** and **innovative applications**
 - 💬 Ask me about **full-stack development, mobile apps, or game development**
 - 📫 How to reach me: **buihuynhngocanh2020@gmail.com**
-- ⚡ Fun fact: I love creating games and have built an endless jump game with elemental particle reactions!
+- ⚡ Dream: I love creating games and want to build game ideas to sell on Steam and make $1 million a month!
 
 ## 🛠️ Tech Stack
 
