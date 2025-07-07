@@ -47,36 +47,6 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🍼 Baby Vaccination Tracker
-**Android Application** | *Sep 2023 - Jan 2024*
-- Healthcare app helping parents track their child's immunization schedule
-- Features: User management, health charts (BMI), vaccine center registration, community chat
-- **Tech Stack:** Java, Android Studio, Firebase, Realtime Database
-- **Team Size:** 5 developers
-- [🔗 View Project](https://github.com/Prox404/Capstone1_Group15_BVT.git)
-
-### ⚽ Sport Booking Platform
-**Full Stack Web Application** | *Apr 2024 - May 2024*
-- Complete booking system for sports fields with management capabilities
-- **Tech Stack:** ReactJS, ASP.NET Core API, Entity Framework, SQL Server, Cloudinary
-- **Solo Project** - Designed and developed end-to-end
-- [🔗 View Project](https://github.com/DUYTAN-NA-02/SportBooking.git)
-
-### 🎮 Jump Game
-**Unity Game Development** | *Mar 2024 - Apr 2024*
-- Endless jumping game with elemental particle physics and reactions
-- Creative gameplay mechanics with scoring system
-- **Tech Stack:** Unity, C#, Visual Studio Code
-- [🔗 View Project](https://github.com/ngocanh0202/JumpGame.git)
-
-### 🎬 YouTube Video Cutting App
-**Web Application** | *Feb 2024*
-- Video editing tool with YouTube API integration
-- **Tech Stack:** ReactJS, NodeJS, ExpressJS, fluent-ffmpeg, ytdl-core
-- [🔗 View Project](https://github.com/ngocanh0202/youtube_video_cutting_app.git)
-
 ## 📊 GitHub Stats
 
 <div align="center">
