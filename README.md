@@ -61,13 +61,6 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
   <img src="./assets/languages.svg" alt="Top Languages" />
 </div>
 
-## 💼 Professional Experience
-
-**FPT Software** | *Developer* | *2024 - Present*
-- Developing and implementing various testing requirements and code solutions
-- Collaborating with cross-functional teams to ensure code quality and meet project deadlines
-- Working with **C#, ASP.NET, OutSystems, SQL Server**
-
 ## 🌟 My Philosophy
 
 > "Even though my projects might not be perfect, I've learned valuable experience from each one and recognized areas for improvement. This drives me to continuously enhance my skills. With the foundation I've built through learning and self-study, I'm ready to face challenges and overcome them on my journey to becoming a professional software engineer."
