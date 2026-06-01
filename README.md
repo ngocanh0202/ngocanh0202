@@ -50,7 +50,7 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngocanh0202&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="./assets/stats.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@ I'm a passionate **Software Engineer** from Da Nang, Vietnam, with a strong foun
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocanh0202&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="./assets/languages.svg" alt="Top Languages" />
 </div>
 
 ## 💼 Professional Experience
